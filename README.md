@@ -21,6 +21,12 @@ A [Yazi](https://yazi-rs.github.io/) plugin to preview Python pickle (`.pkl`, `.
 ya pack -a dimi1357/pickle
 ```
 
+### Using `ya pkg`
+
+```bash
+ya pkg add dimi1357/pickle
+```
+
 ### Manual Installation
 
 1. Clone to your yazi plugins directory:
